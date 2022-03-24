@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dig4639_portfolio1/static/css/main.1ef3a49a.css",
+    "main.js": "/dig4639_portfolio1/static/js/main.897541b1.js",
+    "static/js/787.90895c91.chunk.js": "/dig4639_portfolio1/static/js/787.90895c91.chunk.js",
+    "index.html": "/dig4639_portfolio1/index.html",
+    "main.1ef3a49a.css.map": "/dig4639_portfolio1/static/css/main.1ef3a49a.css.map",
+    "main.897541b1.js.map": "/dig4639_portfolio1/static/js/main.897541b1.js.map",
+    "787.90895c91.chunk.js.map": "/dig4639_portfolio1/static/js/787.90895c91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef3a49a.css",
+    "static/js/main.897541b1.js"
+  ]
+}
